@@ -1,0 +1,1 @@
+[{"id": "8c6fbc15-597b-4c2e-80df-e1868cd2c2fb", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "56c8b64d-db24-4f50-aed1-28a0eab3d7ef", "name": "geom", "dataType": "geometry", "geometryType": "MULTILINESTRING", "geometryCRS": "EPSG:4326"}, {"id": "06a62d94-d64f-417b-bae4-b59aac6d6321", "name": "Name", "dataType": "text", "length": 200}]
